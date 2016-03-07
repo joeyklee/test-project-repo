@@ -1,2 +1,4 @@
 *.csv
 assets/bigData/*
+code/mySecretRScript.R
+private/*
